@@ -1,0 +1,12 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+table th{
+  background-color: rgb(2, 123, 255);
+  color: white;
+}
+table tr:nth-child(odd){
+  background-color: rgb(163, 149, 149);
+}

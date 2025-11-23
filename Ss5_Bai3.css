@@ -1,0 +1,16 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing:content-box;
+}
+h3{
+  color: rgb(84, 146, 180);
+}
+div{
+  background-color:rgb(255, 250, 239) ;
+  border-left: 5px solid #f0d98c;
+  line-height: 1.7;
+   padding: 25px;
+}
+
+

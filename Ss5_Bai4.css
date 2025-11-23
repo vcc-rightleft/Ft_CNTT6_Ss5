@@ -1,0 +1,40 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+p{
+  line-height: 3;
+  padding: 0px 20px;
+}
+h2{
+  padding: 0 20px;
+}
+p code{
+  color: red;
+  background-color: rgb(236, 241, 245);
+}
+button{
+  background-color: white;
+  padding: 10px 250px;
+  border: 3px solid green;
+  margin-left: 20px;
+}
+div{
+  margin-left: 10px;
+  border-radius:5px ;
+  background-color: rgb(229, 233, 237);
+  line-height: 1.5;
+  padding:20px
+}
+div pre{
+  background-color: white;
+  border-left:5px solid rgb(29, 165, 29) ;
+}
+div button{
+  color: white;
+  padding: 10px 10px ;
+  background-color: rgb(30, 179, 97);
+  border: 0;
+  border-radius: 5px;
+}
